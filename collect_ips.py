@@ -4,8 +4,7 @@ import re
 import os
 
 # 目标URL列表
-urls = ['https://api.uouin.com/cloudflare.html', 
-        ''
+urls = ['https://api.uouin.com/cloudflare.html'
         ]
 
 # 正则表达式用于匹配IP地址
